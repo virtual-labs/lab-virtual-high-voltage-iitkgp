@@ -15,14 +15,14 @@
     "name": "Study Of Impulse Voltage Generator",
     "short-name": "impulse-voltage-generator",
     "repo": "https://github.com/virtual-labs/exp-impulse-voltage-generator-iitkgp",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Parametric Analysis Of Impulse Voltage Waveform",
     "short-name": "parametric-voltage-waveform",
     "repo": "https://github.com/virtual-labs/exp-parametric-voltage-waveform-iitkgp",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
