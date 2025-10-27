@@ -64,7 +64,7 @@
     "name": "3-Stage Cockroft Walton Voltage Multiplier",
     "short-name": "cockroft-walton-voltage",
     "repo": "https://github.com/virtual-labs/exp-cockroft-walton-voltage-iitkgp",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 
